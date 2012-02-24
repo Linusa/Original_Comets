@@ -1,0 +1,6 @@
+This project was done for an Object-Oriented class. The main class, CometsMain, was given
+to us, and we created all of the other classes to match the specifications. The game has
+a ship, which is a circle with a line displaying the heading, and comets, which are also
+circles. The ship shoots circles that represent Shots and can destroy Comets. Large
+Comets spawn MediumComets which in turn spawn SmallComets. The game starts with two Large
+Comets, and then when all the comets spawned are gone the game waits to be closed.
